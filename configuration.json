@@ -12,9 +12,9 @@
     }
   ],
   "demonstrations": [
-    { "Textual xtUML Debug": "https://youtu.be/n-QEpsQY7Jo" },
-    { "Textual xtUML Creation": "https://youtu.be/n-QEpsQY7Jo" },
-    { "Textual xtUML Graphics": "https://youtu.be/n-QEpsQY7Jo" }
+    { "name": "Textual xtUML Debug", "url": "https://youtu.be/n-QEpsQY7Jo" },
+    { "name": "Textual xtUML Creation", "url": "https://youtu.be/n-QEpsQY7Jo" },
+    { "name": "Textual xtUML Graphics", "url": "https://youtu.be/n-QEpsQY7Jo" }
    ],
   "owner": {
     "first_name": "FMAY-Incubator",
