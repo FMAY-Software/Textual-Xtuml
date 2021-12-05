@@ -14,6 +14,11 @@
   "demonstration": {
     "url": "https://youtu.be/n-QEpsQY7Jo"
   },
+  "demonstrations": [
+    { "Textual xtUML Debug": "https://youtu.be/n-QEpsQY7Jo" },
+    { "Textual xtUML Creation": "https://youtu.be/n-QEpsQY7Jo" },
+    { "Textual xtUML Graphics": "https://youtu.be/n-QEpsQY7Jo" }
+   ],
   "owner": {
     "first_name": "FMAY-Incubator",
     "last_name": "",
