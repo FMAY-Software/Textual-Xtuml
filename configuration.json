@@ -1,0 +1,26 @@
+{
+  "name": "Textual-Xtuml",
+  "about": "A version of textual representation for partial xtUML",
+  "description": "This is a prototype to allow one example of a text editor for xtUML.  This prototype includes some connection with the BridgePoint tool.",
+  "email": "fmaysoftware.com",
+  "repository_name": "Textual-Xtuml",
+  "home": "https://github.com/FMAY-Software/Textual-Xtuml",
+  "deliverables": [
+    {
+      "target": "None",
+      "url": "None"
+    }
+  ],
+  "demonstration": {
+    "url": ""
+  },
+  "owner": {
+    "first_name": "FMAY-Incubator",
+    "last_name": "",
+    "email": "travis.london@fmay.net",
+    "phone": "5203730727"
+  },
+  "clients": [
+    "travis.london@fmay.net"
+  ]
+}
